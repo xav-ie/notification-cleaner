@@ -39,7 +39,7 @@
             version = "1.0.0";
             src = ./.;
             buildInputs = [ pkgs.nodejs ];
-            npmDepsHash = "sha256-AQJujwgoy5GftQhGAlXejfDOAu7Sd8570C+Pw4RTIo8=";
+            npmDepsHash = "sha256-DR4K3TMyUK3t8h1EVOzLyQHJZGFtWqJMr9/ij2nwu+8=";
             npmPackFlags = [ "--ignore-scripts" ];
             npmBuildScript = "build";
 

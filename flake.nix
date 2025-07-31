@@ -53,6 +53,7 @@
             meta = {
               description = "A simple notification cleaner for macOS";
               license = pkgs.lib.licenses.mit;
+              mainProgram = "notification-cleaner";
             };
           };
 

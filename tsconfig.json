@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "none",
+    "moduleResolution": "classic",
+    "esModuleInterop": false,
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "allowJs": true,
+    "strict": true,
+    "sourceMap": true,
+    "inlineSources": true,
+    "resolveJsonModule": false,
+    "declaration": true,
+    "emitDeclarationOnly": false,
+    "allowSyntheticDefaultImports": false,
+    "removeComments": true,
+    "outDir": "dist/",
+    "rootDir": ".",
+    "noUncheckedIndexedAccess": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"],
+  "exclude": []
+}

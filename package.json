@@ -1,6 +1,6 @@
 {
   "name": "notification-cleaner",
-  "description": "A simple notification cleaner for MacOS",
+  "description": "A simple notification cleaner for macOS",
   "version": "1.0.0",
   "author": {
     "name": "Xavier Ruiz"

@@ -1,5 +1,5 @@
 {
-  description = "A simple notification cleaner for MacOS";
+  description = "A simple notification cleaner for macOS";
 
   inputs = {
     devenv-root.url = "file+file:///dev/null";
@@ -51,7 +51,7 @@
             '';
 
             meta = {
-              description = "A simple notification cleaner for MacOS";
+              description = "A simple notification cleaner for macOS";
               license = pkgs.lib.licenses.mit;
             };
           };
